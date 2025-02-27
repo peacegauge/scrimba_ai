@@ -23,7 +23,7 @@ const messages = [
         content: 'You are a helpful general knowledge expert teacher able to explain any topic using 5th grade level vocabulary.'
     },
     {role: "user",
-        content: "What is a qbit?"
+        content: "What is a quantum computer"
     }
 ]
 
